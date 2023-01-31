@@ -1,4 +1,4 @@
-#Portfolio Projects 
+# Portfolio Projects 
 
 Here are a list of my personal projects:
 
