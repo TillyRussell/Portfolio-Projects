@@ -1,6 +1,6 @@
 # Portfolio Projects 
 
-Here are a list of my personal projects:
+Below are a list of my personal projects demonstrating a few key skills across SQL and Tableau.
 
 1) Covid 19 Project - Analysing Covid 19 infection and death rate data between 2020-2021 per country using SQL.
 
