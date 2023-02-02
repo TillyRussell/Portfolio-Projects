@@ -10,6 +10,6 @@ Below are a list of my personal projects demonstrating a few key skills across S
 
 4) AirBnB Dashboard - Visualisations of AirBnB data from Washington AirBnBs. 
 
-5) Nashville Housing Project - Current project. Data cleaning in SQL.
+5) Nashville Housing Project - Data cleaning of Nashville housing data.
 
 Please find the Tableau visualisation (3 & 4) here: https://public.tableau.com/app/profile/tilly2825
